@@ -12,3 +12,8 @@ packages:
   gitUrl: https://github.com/prabhakarsag
   gitUsername: prabhakarsag
   gitBranch: main
+- name: JMS2waySSL
+  gitServerName: SIQAPsur
+  gitUrl: https://github.com/prabhakarsag
+  gitUsername: prabhakarsag
+  gitBranch: main
