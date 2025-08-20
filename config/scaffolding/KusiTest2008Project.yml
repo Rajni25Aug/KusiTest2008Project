@@ -30,6 +30,11 @@ packages:
   gitUrl: https://github.com/vijetadixit
   gitUsername: Rajni25Aug
   gitBranch: Test2
+- name: TPP_services_in_FCS
+  gitServerName: SIQA_KVV_IBM
+  gitUrl: https://github.com/Karthik-V-IBM-10
+  gitUsername: Karthik-V-IBM-10
+  gitBranch: main
 services:
 - serviceName: project.kusitest2008.integrations:JMSFlowTest
   packages:
