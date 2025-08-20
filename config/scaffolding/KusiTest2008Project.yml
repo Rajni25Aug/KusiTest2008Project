@@ -25,6 +25,11 @@ packages:
   gitUrl: https://github.com/prabhakarsag
   gitUsername: prabhakarsag
   gitBranch: main
+- name: SIQA_OriginTest_OnPremAssets
+  gitServerName: kusiAZSproTest
+  gitUrl: https://github.com/vijetadixit
+  gitUsername: Rajni25Aug
+  gitBranch: Test2
 services:
 - serviceName: project.kusitest2008.integrations:JMSFlowTest
   packages:
